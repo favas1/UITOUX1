@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UITOUX</string>
+    <string name="enter_student_name">Enter Student Name</string>
+    <string name="mark3">Mark3</string>
+    <string name="mark2">Mark2</string>
+    <string name="mark1">Mark1</string>
+    <string name="save">Save</string>
+    <string name="all_fields_are_mandatory">All fields are mandatory</string>
+    <string name="marks_of_this_std_saved_before">This student information saved before itself</string>
+</resources>
